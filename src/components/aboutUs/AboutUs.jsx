@@ -1,6 +1,6 @@
 // import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './AboutUs.css';
+import './aboutUs.css';
 import Navbar from '../navbar/Navbar';
 
 const AboutUs = () => {
