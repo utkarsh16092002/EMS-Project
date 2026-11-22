@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import CRUD_OP from "../services/Employee.services";
 import { useNavigate } from "react-router-dom";
-import "./ShowEmp.css"
+import "./showemp.css"
 
 export default function ShowEmp() {
     const navigate = useNavigate();
